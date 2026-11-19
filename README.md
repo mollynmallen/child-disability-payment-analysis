@@ -22,6 +22,12 @@ statistics published by Social Security Scotland.
 3. How do yearly totals compare, and what is the year-on-year change?
 4. What is the overall decision breakdown across the full period?
 
+## Visualisation
+
+![Monthly Child Disability Payment applications over time](images/CDP_Chart1.png)
+
+*Monthly applications from July 2021 to June 2026. Chart built in Tableau from the cleaned dataset.*
+
 ## Project structure
 
 | File | Purpose |
